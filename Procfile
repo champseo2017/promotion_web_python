@@ -1,0 +1,1 @@
+web: gunicorn promotion_web.wsgi
